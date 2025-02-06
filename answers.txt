@@ -2,6 +2,12 @@
 Pros: 1. Spreads out work to focus on important tasks 2. Allows reiteration consistently
 Cons: 1. Spread focus makes it easy for small tasks to be lost in cracks 2. Sub teams may be at very different stages
 
-(b) The Scrum Master is in charge of the project management. They maintain goals and divide work among employees. A Product Owner
+(b) Scrum Master vs Product Owner
+The Scrum Master is in charge of the project management. They maintain goals and divide work among employees. A Product Owner
 is in charge of creating the product idea and setting goals. These two will stay in conversation to make sure the work the Scrum Master 
 is overseeing aligns with the goals of the Product owner.
+
+(c) Sprint Meetings
+The first meeting type is a planning meeting. In this meeting workers should establish what is in scope for this sprint and create priorities.
+The second meeting type is a standup meeting. In this meeting workers should share their current progress and what their next goal is.
+The third meeting type is a retrospective meeting. In this meeting workers should review all goals to ensure completion and check progress on the whole project.
