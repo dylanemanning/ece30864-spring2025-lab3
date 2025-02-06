@@ -1,0 +1,3 @@
+(a) Agile Development Pros and Cons
+Pros: 1. Spreads out work to focus on important tasks 2. Allows reiteration consistently
+Cons: 1. Spread focus makes it easy for small tasks to be lost in cracks 2. Sub teams may be at very different stages
