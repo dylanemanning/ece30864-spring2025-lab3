@@ -2,3 +2,6 @@
 Pros: 1. Spreads out work to focus on important tasks 2. Allows reiteration consistently
 Cons: 1. Spread focus makes it easy for small tasks to be lost in cracks 2. Sub teams may be at very different stages
 
+(b) The Scrum Master is in charge of the project management. They maintain goals and divide work among employees. A Product Owner
+is in charge of creating the product idea and setting goals. These two will stay in conversation to make sure the work the Scrum Master 
+is overseeing aligns with the goals of the Product owner.
